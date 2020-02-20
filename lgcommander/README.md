@@ -1,3 +1,5 @@
+Few changes from the original 4 years ago
+
 ## lgcommander.py
 lgcommander.py is a python script for controlling your Smart Lg TV with your PC.
 It can be used for gaining access to hidden menus and modes.
